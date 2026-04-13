@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+*.zip
+package-lock.json
+package.json
+vite.config.js
+src/
+index.html
+*.jsx
+*.docx
+*.txt
+*.md
+!candidate-package/*.md
+!README.md
+Keywell_i_am_getting_the_job
+follow-up-email.md
